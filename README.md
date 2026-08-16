@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+working+software;AI+%2B+IoT+%2B+Computer+Vision+projects;Java+%7C+Python+%7C+SQL+%7C+DBMS;Open+to+Internships+%26+Full-Time+Roles&font=Fira%20Code&center=true&width=600&height=45&color=22D3EE&vCenter=true&size=22&pause=1500"/></a>
 
 <p>
-  <img src="https://img.shields.io/badge/📍-Pollachi%2C%20Tamil%20Nadu%2C%20India-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📍-Chennai%2C%20Tamil%20Nadu%2C%20India-6366F1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-8.83%20%2F%2010-22D3EE?style=for-the-badge"/>
 </p>
 
